@@ -1,0 +1,24 @@
+# Dataset
+dataset/
+data/
+neu_classification/
+neu_yolo/
+
+# Training outputs
+runs/
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
